@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
+This is an error version, every useful thing was gone
